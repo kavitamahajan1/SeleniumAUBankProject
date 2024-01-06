@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2364" started-at="2024-01-06T07:03:14Z" finished-at="2024-01-06T07:03:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2364" started-at="2024-01-06T07:03:14Z" finished-at="2024-01-06T07:03:16Z">
+      <class name="TestAPI.FirstAPITesting">
+        <test-method status="PASS" signature="GetRequestTest()[pri:0, instance:TestAPI.FirstAPITesting@5419f379]" name="GetRequestTest" duration-ms="2348" started-at="2024-01-06T12:33:14Z" finished-at="2024-01-06T12:33:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetRequestTest -->
+      </class> <!-- TestAPI.FirstAPITesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
